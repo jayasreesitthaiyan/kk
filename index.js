@@ -1,4 +1,4 @@
-/ You can add JavaScript code to load and display artwork and books here.
+// You can add JavaScript code to load and display artwork and books here.
 // For example, you can make AJAX requests to fetch data from a backend server.
 
 // Sample code to fetch and display featured artwork
